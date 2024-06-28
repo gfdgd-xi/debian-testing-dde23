@@ -1,0 +1,18 @@
+Package: deepin-home-appstore-daemon
+Architecture: arm64
+Version: 8.0.7.0002-1
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 1863
+Depends: libc6 (>= 2.34), libdtk6core (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6 (>= 6.6.0), libqt6dbus6 (>= 6.4.0), libqt6network6 (>= 6.4.0), libqt6sql6 (>= 6.1.2), libstdc++6 (>= 5.2), libqt6sql6-sqlite
+Filename: ./d/deepin-home-appstore-daemon/deepin-home-appstore-daemon_8.0.7.0002-1_arm64.deb
+Size: 507716
+MD5sum: 68c551475d82d871045018d22f12e301
+SHA1: 3d936cafed810896ef4015b29fb99bc9a7e2fe68
+SHA256: fd8d8eefedcd81fca5785aa5d2ded4458d03caaeec46a672abed16ee96f55248
+SHA512: 319d7f437c3f08ca5274f2b082ffc77d8181d6609ddfeb6eca5abfffd6a9201a4da7870c11464b61f7f68641b1c717dcf88b9594644a19d33ed973a627d715bf
+Homepage: https://github.com/linuxdeepin/developer-center
+Description: Deepin App Store Daemon
+ Deepin App Store Daemon.
+

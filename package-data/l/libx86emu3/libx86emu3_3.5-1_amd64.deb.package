@@ -1,0 +1,24 @@
+Package: libx86emu3
+Architecture: amd64
+Version: 3.5-1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libx86emu
+Maintainer: Sebastien Badia <seb@sebian.fr>
+Installed-Size: 175
+Depends: libc6 (>= 2.14)
+Filename: ./l/libx86emu3/libx86emu3_3.5-1_amd64.deb
+Size: 50064
+MD5sum: fccb876072949a578658a4cbbef48c4e
+SHA1: 619fb78668526847ccc58bde59a92eb34a71b48d
+SHA256: 5d55a10090088c771f51d24117726180df5c8069efc5f324ffa5eeed560c5f34
+SHA512: 25158dd1b75cc4a603f7b0b73f51db3f15361e37ea76f5bf1c2048fd348dfefc61d3b1187d9f7b5d6c31afed6d11e6248df53b04208402e11f6bc990b9dc0c83
+Homepage: https://github.com/wfeldt/libx86emu
+Description: x86 emulation library
+ Small x86 emulation library with focus of easy usage and
+ extended execution logging functions. The library features
+ an API to create emulation objects for x86 architecture.
+ .
+ This package contains the library.
+

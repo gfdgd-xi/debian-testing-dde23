@@ -1,0 +1,21 @@
+Package: deepin-desktop-environment-base
+Architecture: amd64
+Version: 2024.06.18
+Priority: standard
+Section: metapackages
+Source: deepin-desktop-environment
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 10
+Depends: adduser, apt, apt-utils, deepin-keyring, e2fsprogs, fdisk, gcc, gpgv, init, libzip4, lsb-base, mawk, mount, passwd, pciutils, sensible-utils, tzdata, udev, zlib1g
+Filename: ./d/deepin-desktop-environment-base/deepin-desktop-environment-base_2024.06.18_amd64.deb
+Size: 4608
+MD5sum: 20e3ba9acd4ab14ed1f958362e294928
+SHA1: 5feb8d3ab567bc177053fbed00604be222d88b23
+SHA256: e849bb3213352e52084caf9715fac848434c03d50328b86cdc45fd15557b2c98
+SHA512: f4230200af40df19d2e10a313f8a250004d47bf8799bed3cf590c78bd93485401b3fd65a1c865b6a3d44cc7eae61b5b690387df4035f3a71847b862f8f40336a
+Homepage: https://github.com/deepin-community/deepin-desktop-environment
+Description: Deepin New Desktop Environment - Next
+ This is a base meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

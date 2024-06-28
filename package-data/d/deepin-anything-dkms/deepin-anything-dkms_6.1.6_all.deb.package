@@ -1,0 +1,19 @@
+Package: deepin-anything-dkms
+Architecture: all
+Version: 6.1.6
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 79
+Depends: dkms (>= 2.1.0.0)
+Filename: ./d/deepin-anything-dkms/deepin-anything-dkms_6.1.6_all.deb
+Size: 14632
+MD5sum: 0c234c3546d6961d250d2800b2095c6e
+SHA1: d65c3e2a7ccd5da20ce2cc2c32d5c683648d64c9
+SHA256: 5299a375756d0f852243eea1b3586ad32d4800928aa3a02e70d3ad68576984db
+SHA512: dc1099d7f46f23ada71d13a95ae9efe659371e35582ffe13af92ffba7ca3f5224900034b71bb8cc836ea9b7f7d3edb591a97ac40e077159bee6fa6c0be7506ed
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything module
+ anything kernel module package
+

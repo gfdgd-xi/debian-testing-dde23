@@ -1,0 +1,19 @@
+Package: deepin-theme-square
+Architecture: amd64
+Version: 1.0.16
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 37378
+Depends: deepin-icon-theme
+Filename: ./d/deepin-theme-square/deepin-theme-square_1.0.16_amd64.deb
+Size: 30501052
+MD5sum: 0e6492a597bc724ea2a9b1760fce41bb
+SHA1: 30aa659aca0b21dfc0db94510923b2d579e88abd
+SHA256: ce53263ba5f24b8526f66727239cf9c04c5c9f9991d265894639de62934950f6
+SHA512: 055bc252fcf1d27d0a744cdd7808ab1d0c85652fc555a32d6c5980910dca9ddca9a264a11ff35723ef37a9b04cf07b88410c62c6c0a26978386c667bd51c5063
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - square theme
+ deepin theme square.
+

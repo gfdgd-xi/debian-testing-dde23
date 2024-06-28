@@ -1,0 +1,25 @@
+Package: avfs
+Architecture: amd64
+Version: 1.1.4-2
+Priority: optional
+Section: utils
+Maintainer: Michael Meskes <meskes@debian.org>
+Installed-Size: 1149
+Depends: libbz2-1.0, libc6 (>= 2.38), libfuse2t64 (>= 2.6), liblzma5 (>= 5.1.1alpha+20120614), libneon27t64-gnutls, libzstd1 (>= 1.5.5), zlib1g (>= 1:1.1.4), fuse
+Suggests: unzip, zip, arj, lha, rpm, p7zip | p7zip-full, cdparanoia, wget, dar
+Filename: ./a/avfs/avfs_1.1.4-2_amd64.deb
+Size: 226380
+MD5sum: a5d12ce6124a895380e742f7e6658cff
+SHA1: d86aee5d9adb956983341836f09d4da4859c32b2
+SHA256: 0ff5b95a8301894580139a646fbbe95c2507eb1160859b897243bcde115ec856
+SHA512: 63b995fba12395ffded703b1a0c70698e2ae80eed7e398c35f4b5e7f7a2d54a0fd5111d90837f178acd915c1a25d941a15367eb2b6a232953461e2cce0751381
+Homepage: http://sourceforge.net/projects/avf
+Description: virtual filesystem to access archives, disk images, remote locations
+ This FUSE-base VFS (Virtual FileSystem) enables all programs to look inside
+ archived or compressed files, or access remote files without recompiling the
+ programs or changing the kernel.
+ .
+ At the moment it supports floppies, tar and gzip files, zip, bzip2, ar and rar
+ files, ftp sessions, http, webdav, rsh/rcp, ssh/scp. Quite a few other
+ handlers are implemented with the Midnight Commander's external FS.
+

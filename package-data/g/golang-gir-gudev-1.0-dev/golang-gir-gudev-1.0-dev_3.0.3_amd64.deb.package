@@ -1,0 +1,21 @@
+Package: golang-gir-gudev-1.0-dev
+Architecture: amd64
+Version: 3.0.3
+Priority: optional
+Section: devel
+Source: go-gir-generator
+Maintainer:  Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 73
+Depends: libgudev-1.0-dev
+Filename: ./g/golang-gir-gudev-1.0-dev/golang-gir-gudev-1.0-dev_3.0.3_amd64.deb
+Size: 8988
+MD5sum: e68152f83cdc550ca0f3d0011eb32c75
+SHA1: 909431eb654f381e8bedd53032ebbc989e07e9f4
+SHA256: 548147f184d64b5dc7dd3e5bd427803fb70e59b8a2c20dcb325f9e3e5b4a9e4d
+SHA512: ad023eced0bd9b1b1b7eb5d1b4378dea9a93a3024843cd03b63ebd8e6a62fe812125a9347e09c41871cc69bcdbee2f06e24a98034a29b4673c6043c84130de14
+Homepage: http://www.deepin.org
+Description: Go bindings
+ Go bindings for Deepin Desktop Environment development
+ .
+ gudev-1.0  go bindings.
+

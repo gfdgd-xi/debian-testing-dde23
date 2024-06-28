@@ -1,0 +1,19 @@
+Package: dde-grand-search
+Architecture: amd64
+Version: 5.5.0
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3296
+Depends: libavformat60 (>= 7:6.0), libc6 (>= 2.34), libdeepin-pdfium, libdframeworkdbus2 (>= 5.5.5), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libffmpegthumbnailer4v5 (>= 2.2.2+git20240104+dfsg), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.24.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libicu72 (>= 72.1~rc-1~), liblucene++-contrib0t64 (>= 3.0.9), liblucene++0t64 (>= 3.0.9), libqt5concurrent5t64 (>= 5.6.0~rc), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5t64 (>= 5.11.0~rc1), libstdc++6 (>= 13.1), libtag1v5 (>= 1.9.1-2.2~), dconf-gsettings-backend | gsettings-backend
+Recommends: deepin-desktop-schemas (>= 5.8.0.34), dde-daemon (>= 5.12.0.31), startdde (>= 5.6.0.34), deepin-anything-server
+Filename: ./d/dde-grand-search/dde-grand-search_5.5.0_amd64.deb
+Size: 758332
+MD5sum: c4a14dfb825d4ce4b93a084fa2007846
+SHA1: 9ad02260d20b43b4dc15dd5ea838d8897cd21cae
+SHA256: 5edbe67a265cae6bd2a9db69d0ee936f8651265e8350b2defa452764dca59ddd
+SHA512: 23a1e4c11ed79a27ccdbc46e62b5c3fa9518481fe3c7c851fd2e95b2c6d37c4aa0c8653594196d18fe104382df9ca91725c98a77799863faae949f2b4408c907
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - search module
+ Search module of deepin desktop-environment
+

@@ -1,0 +1,26 @@
+Package: golang-github-codegangsta-cli-dev
+Architecture: all
+Version: 1.18.0-3+rb4
+Priority: optional
+Section: devel
+Source: golang-codegangsta-cli
+Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
+Installed-Size: 217
+Provides: golang-codegangsta-cli-dev
+Depends: golang-github-urfave-cli-dev
+Breaks: golang-codegangsta-cli-dev (<< 0.0~git20150117-2~)
+Replaces: golang-codegangsta-cli-dev (<< 0.0~git20150117-2~)
+Filename: ./g/golang-github-codegangsta-cli-dev/golang-github-codegangsta-cli-dev_1.18.0-3+rb4_all.deb
+Size: 43064
+MD5sum: 363aabc6c2e2dcc1b57f0fd9e7e3fa17
+SHA1: ddf84d72b45000bd88d92f2790884f256a918a57
+SHA256: c0527e317e27cbe795f53dd711cf0094bc269861e5b19bfb187bbc67f65285e7
+SHA512: 0dbc0570a6bc5966dcde5693d7f1f15d87a6d8e203f931355443ea77d06dcea209244bf74e9a730cab451388abdb16780ffde74fb2fc84b81d4c569271a293b3
+Homepage: https://github.com/codegangsta/cli
+Description: simple library for building command line apps in Go
+ cli.go is simple library for building command line apps in Go. It
+ allows is writing fast and distributable command line applications in an
+ expressive way.
+ .
+ This package contains the source.
+

@@ -1,0 +1,20 @@
+Package: dde-shell-example
+Architecture: amd64
+Version: 0.0.24
+Multi-Arch: same
+Priority: optional
+Section: unknown
+Source: dde-shell
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 181
+Depends: libc6 (>= 2.32), libdde-shell (= 0.0.24), libdtk6core (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.6.0), libqt6dbus6 (>= 6.1.2), libqt6quick6 (>= 6.6.0), libstdc++6 (>= 5), qml6-module-qt-labs-platform
+Filename: ./d/dde-shell-example/dde-shell-example_0.0.24_amd64.deb
+Size: 37188
+MD5sum: 9a3bc84048487475bb325f089a3a4637
+SHA1: ce2515530a3d27b5adc18bb92842e285b4eaea93
+SHA256: b52f8ad2661b3d9fa8a70d46e154070f8fab69f56ddf69160b7fc6d576faed85
+SHA512: 3e538821b3b3766cf2397745cdb8738f7d6024f3ef4f5375bcefb47dee7b8e6bbba577c60920da85810e9b3700bb4585abd7f4f2410b272533452dc8bc7a244c
+Homepage: http://www.deepin.org
+Description: DDE Shell example
+ This package contains some plugins based on dde-shell plugin system.
+

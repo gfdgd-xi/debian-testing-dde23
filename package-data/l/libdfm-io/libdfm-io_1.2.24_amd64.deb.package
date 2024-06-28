@@ -1,0 +1,20 @@
+Package: libdfm-io
+Architecture: amd64
+Version: 1.2.24
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: util-dfm
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 434
+Depends: libc6 (>= 2.33), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.56.0), libmediainfo0v5 (>= 0.7.56), libqt5core5t64 (>= 5.15.1), libstdc++6 (>= 11), libglibmm-2.4-1v5
+Filename: ./l/libdfm-io/libdfm-io_1.2.24_amd64.deb
+Size: 123184
+MD5sum: 461dd311ecd82cb51a591d5cb0a428ba
+SHA1: 10498283eae8c971bafe8ad98952d93f458a472e
+SHA256: dd50801da3f3a2eff6bbbcaaada5a36cc8b7a4d5e22605d343aac9c32471b9f4
+SHA512: de84ef8021501ca9433706c3eef0939ee705eec1f146ad1693c681ecb9f19912617a0acccc03eb28141261f32064d1c42c247d7206f7d7763134b112016ad853
+Homepage: http://www.deepin.org
+Description: A libaray about I/O.
+ A libaray that provides I/O interface.
+

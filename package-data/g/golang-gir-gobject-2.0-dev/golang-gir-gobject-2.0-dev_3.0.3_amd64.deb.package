@@ -1,0 +1,24 @@
+Package: golang-gir-gobject-2.0-dev
+Architecture: amd64
+Version: 3.0.3
+Priority: optional
+Section: devel
+Source: go-gir-generator
+Maintainer:  Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 161
+Provides: golang-gir-gobject-2.0
+Depends: libglib2.0-dev
+Conflicts: golang-gir-gobject-2.0
+Breaks: golang-gir-gobject-2.0 (<< 0.9.3)
+Filename: ./g/golang-gir-gobject-2.0-dev/golang-gir-gobject-2.0-dev_3.0.3_amd64.deb
+Size: 22536
+MD5sum: 8f5b83ea2e863189eb48f077a3dfecb5
+SHA1: 7797d6c4557aaf03751372de51c62002d0521232
+SHA256: 59f84461cb82cf340b06488dc8ecb5da5e333e901c5e4b0c021fd0f944dac701
+SHA512: c4fcbbb0a8bb49320acbbdc132f1bd7039b30e31065aa9d3346f55902208a92fb04e6ac8454b95f539e0415e3730003a5bf435f9cfe7c7a282113dcab4518d20
+Homepage: http://www.deepin.org
+Description: Go bindings
+ Go bindings for Deepin Desktop Environment development.
+ .
+ gobject-2.0 go bindings.
+

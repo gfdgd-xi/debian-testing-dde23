@@ -1,0 +1,18 @@
+Package: seetaface-pose-estimation
+Architecture: amd64
+Version: 1.0.0.1-1+dde
+Priority: optional
+Section: devel
+Maintainer: bd <bd@seetatech.com>
+Installed-Size: 318
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Filename: ./s/seetaface-pose-estimation/seetaface-pose-estimation_1.0.0.1-1+dde_amd64.deb
+Size: 96156
+MD5sum: 140605dc7871615c7673895cda037fb2
+SHA1: 85fcdbc4f1d67fc4140278dac97c7fb1bc3ba4f2
+SHA256: 60a3e0471e4aaab25a7af0f122adddab6e13e63f237a288e37d807ee6d9b9554
+SHA512: df84c28af4443fe93c27e7dba40c735e7f8ca8ab1dadb105d919c0a2a59240b1c251c012c0908e738dcaceb921e93d7c672c01f437b4f699255d505e6ae248b3
+Homepage: https://github.com/TenniS-Open/TenniS.git
+Description: Poseestimator6 for deepin
+ Poseestimator6 for deepin to using.
+

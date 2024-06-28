@@ -1,0 +1,27 @@
+Package: gstreamer1.0-fluendo-mp3
+Architecture: amd64
+Version: 0.10.32.deepin-1+back
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: gst-fluendo-mp3
+Maintainer: Maintainers of GStreamer packages <pkg-gstreamer-maintainers@lists.alioth.debian.org>
+Installed-Size: 224
+Depends: libc6 (>= 2.27), libglib2.0-0t64 (>= 2.79.0), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.0.0)
+Filename: ./g/gstreamer1.0-fluendo-mp3/gstreamer1.0-fluendo-mp3_0.10.32.deepin-1+back_amd64.deb
+Size: 85504
+MD5sum: 2c548805cc1f39c4128d41156c8678c6
+SHA1: a9704ebe43e44a3d9045e37c1ff14ed8e65ba55b
+SHA256: 5b050ff6f506d741e88e7570a2f10f438667f608def526776feb5dea66eaa727
+SHA512: cd393abf075e038c346edd5bed9a5c64d534ea4da5f21cfe8487ae1f42c0cad000d6c7c6f4dd557bf72ac8ed36f03dd01ccc17f673d3766ddf07a92495aded83
+Homepage: http://www.fluendo.com/shop/product/fluendo-mp3-decoder/
+Description: Fluendo mp3 decoder GStreamer 1.0 plugin
+ This GStreamer 1.0 plugin permits decoding of MPEG 1 audio layer III
+ streams.  It is derived from the ISO MPEG dist10 reference package.
+ .
+ This plugin differs from the GStreamer MAD plugin in that it doesn't
+ depend on a GPL library.
+Gstreamer-Decoders: audio/mpeg, mpegversion=(int)1, layer=(int)[ 1, 3 ]
+Gstreamer-Elements: flump3dec
+Gstreamer-Version: 1.24
+

@@ -1,0 +1,17 @@
+Package: dde-permission-manager
+Architecture: amd64
+Version: 1.0.5
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 400
+Filename: ./d/dde-permission-manager/dde-permission-manager_1.0.5_amd64.deb
+Size: 88576
+MD5sum: 172f650025ff8bcac01ee91a90904522
+SHA1: 6c15ebb3356cf03aa4407894d5b35aaddda1f219
+SHA256: 302dd29dc3836b7ea9ef5965c68bf280dbf5d1324971e81a969e74c9ae507ada
+SHA512: 1ba33474feeb194032ebb253d8dca936b7b0ddc14c90ef50b6a4c898fa1aaf5eee751f3a0bfa0201cb1c81c54168e6a23665a03b0dba54a9dc2d3d64f4d38a72
+Homepage: http://www.deepin.org
+Description: deepin permission manager
+ Provides application resource management and control services for the dde desktop environment.
+

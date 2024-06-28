@@ -1,0 +1,30 @@
+Package: libhd21
+Architecture: amd64
+Version: 23.2-0deepin3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: hwinfo
+Maintainer: Sebastien Badia <sbadia@debian.org>
+Installed-Size: 3555
+Depends: libc6 (>= 2.38), libuuid1 (>= 2.16), libx86emu3 (>= 1.4)
+Filename: ./l/libhd21/libhd21_23.2-0deepin3_amd64.deb
+Size: 821072
+MD5sum: f91ea90746f8cc5418d8c2c179e4ce10
+SHA1: e4a8a03425256e559238bfc35afee73ebdfc859c
+SHA256: 005d85b7656dfc6513712ce5c270b6bc344e86132fd62a49a4545a7f240b0f16
+SHA512: bda1b782fe67f6dd4be23d82bee97f1101ba320ac7c8e2655a6c1d834acbfd35be3ece92b6853d4c6c27efc241cbc4582aa397d2fdc6b070d807ff99dadd6174
+Homepage: https://github.com/openSUSE/hwinfo
+Description: Hardware identification system library
+ hwinfo is the hardware detection tool used in SuSE Linux.
+ .
+ In Debian Edu (Skolelinux) hwinfo has shown better results than discover when
+ detecting mouse, keyboard and monitor.
+ .
+ hwinfo collects information about the hardware installed on a system.  Among
+ others, libhd contains information about cdrom, zip, floppy, disks and
+ partitions, network card, graphics card, monitor, camera, mouse, sound, pppoe,
+ isdn, modem, printer, scanner, bios, cpu, usb, memory and smp.
+ .
+ This package contains the shared library from the hwinfo package.
+

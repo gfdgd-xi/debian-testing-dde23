@@ -1,0 +1,21 @@
+Package: dde-launcher
+Architecture: amd64
+Version: 6.0.19
+Priority: optional
+Section: x11
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3095
+Depends: qtxdg-dev-tools, deepin-desktop-schemas (>= 5.9.14), dde-daemon (>= 5.13.12), startdde (>= 5.8.9), lastore-daemon (>= 5.2.9), libxcb-util1, dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.24.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libxcb-ewmh2 (>= 0.4.1), libxcb1
+Conflicts: dde-launchpad, dde-workspace (<< 2.90.5)
+Replaces: dde-launchpad
+Filename: ./d/dde-launcher/dde-launcher_6.0.19_amd64.deb
+Size: 774800
+MD5sum: f66d2d620ed5db09375f8b191d740aaa
+SHA1: 9bd0adfd8fee38aaf3df985e48551906ae59ba77
+SHA256: e4550885e81c9365bfaf0ff43770064e3ef764b63d9fa9fb657ca2bec9be25bc
+SHA512: 0585cb93458d2d1bce0d043f454f5bb28d7daa85ec90bf8a1f1b3c843ba926531d6d9390be6a785bfab22f908a4f2cbecc9fb7f6ef9fbf61fe610bb2a3921bd8
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dde-launcher module
+ Deepin desktop environment 2015 - dde-launcher module.
+ Display all installation programs, and provide access to open, uninstall, boot and start, which is convenient for users to operate quickly
+

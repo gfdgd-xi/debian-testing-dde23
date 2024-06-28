@@ -1,0 +1,18 @@
+Package: deepin-keyring-whitebox
+Architecture: arm64
+Version: 1.0.3.3-1
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 188
+Depends: dde-crypto (>= 1.0.2), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpam0g (>= 0.99.7.1), libqt5core5a (>= 5.4.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: ./d/deepin-keyring-whitebox/deepin-keyring-whitebox_1.0.3.3-1_arm64.deb
+Size: 33524
+MD5sum: 9866bbece79164f863ba096d94db1034
+SHA1: d6a5330a938cad44c1f3e4cb01ea0ee78acac798
+SHA256: 83083aef26c6a1397daf4878096f2145a4a2d0d06fc4642c51c7f2947e0782c4
+SHA512: 9daaee8538a8793dc70ef86b6554d08d434b050e392634ad11145bf770cca9c16ea865fc482552b7214ea2c5841ad6b9ac21a512a3428ce294b92970ce0f751b
+Homepage: https://www.deepin.org
+Description: deepin whitebox extension for GNOME keyring.
+ This is an extension project provided by deepin, which implements a solution for a password free scenario of gnome keyring.
+

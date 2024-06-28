@@ -1,0 +1,18 @@
+Package: deepin-feedback
+Architecture: amd64
+Version: 6.0.0
+Priority: optional
+Section: utils
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 4992
+Depends: libc6 (>= 2.34), rfkill, lshw, wireless-tools, gzip, boot-info-script, jq, dde-polkit-agent
+Recommends: efibootmgr, dmidecode
+Filename: ./d/deepin-feedback/deepin-feedback_6.0.0_amd64.deb
+Size: 1719656
+MD5sum: 8acd224fcdbe7254847573357dd9d8af
+SHA1: f059ce501dd41b56a16d186955e7ac2d3aefc7d9
+SHA256: b2cb0bbf0fa7763e30d571f70487eec9f1fb2d0dbcf826bc4bfafda9d4fd96dc
+SHA512: 557545b0c0b1cac51b2c752fade1bbb6cf6f73603fdba63b53d84dfb6d8579ff037ee4fc4b421c3a68dadb3e2c2b3c0e665a88b9b5ef96a89adfb3ed340611e0
+Description: report crash information to deepin for debugging
+ this is customer feedback honor
+

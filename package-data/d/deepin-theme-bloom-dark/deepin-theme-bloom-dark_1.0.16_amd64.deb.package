@@ -1,0 +1,19 @@
+Package: deepin-theme-bloom-dark
+Architecture: amd64
+Version: 1.0.16
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 53347
+Depends: deepin-icon-theme, deepin-theme-bloom (= 1.0.16)
+Filename: ./d/deepin-theme-bloom-dark/deepin-theme-bloom-dark_1.0.16_amd64.deb
+Size: 45708728
+MD5sum: e368afb25de5541a023fa14be6bf88eb
+SHA1: 4cb5791cb6ae820c628e094c9301e5b7ac0da028
+SHA256: 3a6507715103303eaaa9bdfc9384372be6db15a6375a48ed5727c20a32b5b256
+SHA512: 1e8f708829449ef86ec512e473fd1393a85ed773f365578a6c655b5baacce75622153d0ee57d948dc0ec1a126357631713bab8d2b77b1e8d8c1b124da510dc8f
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - bloom dark theme
+ deepin theme dark bloom.
+

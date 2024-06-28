@@ -1,0 +1,19 @@
+Package: deepin-desktop-base
+Architecture: amd64
+Version: 2024.05.31
+Priority: optional
+Section: misc
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 103
+Provides: deepin-appstore-config
+Depends: deepin-keyring, distro-info-data, eject, fonts-noto, fonts-symbola
+Conflicts: deepin-desktop-server
+Filename: ./d/deepin-desktop-base/deepin-desktop-base_2024.05.31_amd64.deb
+Size: 23312
+MD5sum: 5c718352c24ac5b803a96dfa620c7ba7
+SHA1: 504fa4c50c8eb37153b05fbc60e214f7996979ef
+SHA256: 03a171df5ae0466428a252fc7bf87c75bf0eb33be9762df48c54e2160acb5e88
+SHA512: fbfb2ae292b97fa733e4381782eb5d30a01076b1d82e9b57a89e40981b245c532bedacfb73e4488b26a3837017813dff25c1aa1e5fabf1a51c9a6cd6385e0c86
+Description: The basic file of Deepin Desktop,
+ provides system attribute description for DDE components
+

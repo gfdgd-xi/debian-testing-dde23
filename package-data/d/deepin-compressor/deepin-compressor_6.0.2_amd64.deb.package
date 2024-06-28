@@ -1,0 +1,18 @@
+Package: deepin-compressor
+Architecture: amd64
+Version: 6.0.2
+Priority: optional
+Section: devel
+Maintainer: packages <packages@deepin.com>
+Installed-Size: 4821
+Depends: libarchive13t64 (>= 3.2.1), libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.28.0), libkf5archive5 (>= 4.96.0), libkf5codecs5 (>= 4.96.0), libminizip1t64, libmount1 (>= 2.19.1), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5t64 (>= 5.15.1), libstdc++6 (>= 5.2), libzip4t64 (>= 1.6.0), p7zip-full, deepin-shortcut-viewer, unar, rar, unrar, pigz
+Recommends: uos-reporter, deepin-event-log
+Filename: ./d/deepin-compressor/deepin-compressor_6.0.2_amd64.deb
+Size: 1820972
+MD5sum: a4bef643463ba9002efd343150c49a53
+SHA1: 7d0eecc3e87227d9e07b3717c98b6bcd3acccdad
+SHA256: e1f00f70f3b401676e735d1d94534449ed9a893b16a7452fdc5d640710ff7c0b
+SHA512: 36a9277242e5e53570729f2d60445e1f1924a0bcdae40e5cd76845f2bb1813f191898ae098effd3ee1ab5cfb37ef27a817d17ac670ec22790c0bd36a932e0eb4
+Description: Archive Manager is a fast and lightweight application for creating and extracting archives.
+ Archive Manager is a user-friendly and easy-to-use compressing and decompressing software, supporting multiple compressing formats such as 7z, jar, tar, tar.bz2, tar.gz, tar.lz, tar.lzm, tar.lzo, tar.Z, zip as well as encrypted compressing settings.
+

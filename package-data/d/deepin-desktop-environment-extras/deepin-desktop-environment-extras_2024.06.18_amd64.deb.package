@@ -1,0 +1,23 @@
+Package: deepin-desktop-environment-extras
+Architecture: amd64
+Version: 2024.06.18
+Priority: standard
+Section: metapackages
+Source: deepin-desktop-environment
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 10
+Depends: cryptsetup-initramfs, cups, cups-bsd, cups-filters, dde-account-faces, dde-api, dde-cooperation, dde-dconfig-daemon, dde-desktop-plugins, dde-device-formatter, dde-disk-mount-plugin, dde-file-manager-common-plugins, dde-file-manager-daemon-plugins, dde-file-manager-plugins, dde-file-manager-preview-plugins, dde-grand-search, dde-manual-content, dde-printer, dde-qt5wayland-plugin, dde-widgets, deepin-anything-server, spark-store, deepin-app-store-runtime, deepin-boot-maker, deepin-deb-installer, deepin-deepinid-client, deepin-desktop-environment-core, deepin-devicemanager, deepin-feedback, deepin-font-manager, deepin-home, deepin-home-appstore-daemon, deepin-log-viewer, deepin-ocr, deepin-picker, deepin-screensaver, deepin-shortcut-viewer, deepin-sync-daemon, deepin-voice-note, deepin-music, gstreamer1.0-libav, gstreamer1.0-plugins-ugly, gstreamer1.0-fluendo-mp3, libvlc5, deepin-image-viewer, deepin-album, deepin-calculator, deepin-compressor, deepin-draw, deepin-editor, deepin-movie, deepin-screen-recorder, deepin-manual, com.deepin.gomoku, com.deepin.lianliankan, dock-network-plugin, dss-network-plugin, fonts-lohit-deva, fonts-noto, fonts-noto-cjk, fonts-noto-mono, fonts-noto-unhinted, fonts-wqy-microhei, fonts-wqy-zenhei, fonts-noto-color-emoji, xfonts-wqy, libcupsimage2, libimageeditor, libime-bin, linglong-bin, linglong-box, linglong-installer, org.deepin.downloader, samba, samba-common-bin, samba-dsdb-modules, samba-vfs-modules, simple-scan, systemd-timesyncd, uos-ai, fcitx5-frontend-qt6, fcitx5-pinyin-gui, intel-media-va-driver-non-free, mesa-vulkan-drivers, mesa-vdpau-drivers
+Filename: ./d/deepin-desktop-environment-extras/deepin-desktop-environment-extras_2024.06.18_amd64.deb
+Size: 5192
+MD5sum: 7eef65c42788376f15d925b053f451f3
+SHA1: d15851ae9bb4a076b747602dcc2d05c1a8d443a0
+SHA256: a999fe014e3afeff870e601df93e5728c6f01b950c2fae983fe3df2073cdc304
+SHA512: 282ddcbeec48f346ae4e018d83541dcd6542947b9246ea525ed4e24881ce73411514b79b98ae65a4d4222fad03217818df16735bee4507e8c9620a7a6b905722
+Homepage: https://github.com/deepin-community/deepin-desktop-environment
+Description: Deepin New Desktop Environment - Next
+ This is a extras package depends Deepin New Desktop Envrionment.
+ .
+ This package installs the standard set of applications that are
+ part of the official deepin release.
+ You can safety remove it after installed.
+

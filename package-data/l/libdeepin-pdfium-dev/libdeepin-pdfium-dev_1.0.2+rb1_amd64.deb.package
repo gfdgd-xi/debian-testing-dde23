@@ -1,0 +1,18 @@
+Package: libdeepin-pdfium-dev
+Architecture: amd64
+Version: 1.0.2+rb1
+Priority: optional
+Section: libdevel
+Source: deepin-pdfium
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 30
+Depends: libdeepin-pdfium
+Filename: ./l/libdeepin-pdfium-dev/libdeepin-pdfium-dev_1.0.2+rb1_amd64.deb
+Size: 5668
+MD5sum: 7dbcde48a0b313379f6d00de25a3701c
+SHA1: 7b6e38277887bd7e9a1c2651a720ec2c7e129197
+SHA256: d3b16ae82d3574e30825dd952ce1d830e11ce3f8da630d53e5f0da57d729c6d7
+SHA512: efd3f6a2380a6f8459e98c0c077fa861118dd944e9de2aa8898352698ab8d25ccaa7f862f95ad8cdf1dad0e29c894c3191cf44139abe50589a6ae18f39ad250c
+Description: A libaray about PDF dev
+ A libaray that provides for parsing and editing and displaying PDF interface dev.
+

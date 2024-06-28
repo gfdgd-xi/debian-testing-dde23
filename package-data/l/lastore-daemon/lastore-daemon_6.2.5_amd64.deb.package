@@ -1,0 +1,20 @@
+Package: lastore-daemon
+Architecture: amd64
+Version: 6.2.5
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 33213
+Provides: update-notifier
+Depends: dbus, procps, ostree, libc6 (>= 2.34), libglib2.0-0 (>= 2.70.0), libgtk-3-0 (>= 3.0.0)
+Recommends: deepin-default-settings, deepin-ab-recovery
+Filename: ./l/lastore-daemon/lastore-daemon_6.2.5_amd64.deb
+Size: 8597100
+MD5sum: 0eb81eb4ef8e208938aed67a71be6d23
+SHA1: 4b49305c4fa2ded5471eecc463c5307aae88f1af
+SHA256: 4b20dc1d95f87eda58bc0a8b7a1682a37bba72947c88b981acadd134edf7a483
+SHA512: bb781854dda2380b4f8a5f346ba963c9a95cf18b8db03b96d992dc4018f6137f46c584023eafb31522f5f9edc2de031b6f1a56ed430bce68a33efa8a49f5f483
+Homepage: http://github.com/linuxdeepin/lastore-daemon
+Description: daemon of lastore
+ daemon of lastore - support dbus interface
+

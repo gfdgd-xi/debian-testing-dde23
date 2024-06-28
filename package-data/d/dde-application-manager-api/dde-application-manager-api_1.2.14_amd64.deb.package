@@ -1,0 +1,19 @@
+Package: dde-application-manager-api
+Architecture: amd64
+Version: 1.2.14
+Priority: optional
+Section: utils
+Source: dde-application-manager
+Maintainer: He YuMing <heyuming@deepin.org>
+Installed-Size: 31
+Depends: dde-application-manager (= 1.2.14)
+Filename: ./d/dde-application-manager-api/dde-application-manager-api_1.2.14_amd64.deb
+Size: 7072
+MD5sum: 1bd6be158ed403cdd436deb58cc7c5d2
+SHA1: e02ad0c79677e6621277d1cc0b99b84e05ce298f
+SHA256: 74304179b5885576227276fa28c08881d6d4a24b2249eae5ae51d044bc5a5373
+SHA512: af277110d883166e18bfa7bc3a9c3199870eaa831f061f6f2a88928491d7012a98ad27b5c4458c7e4272dfce194451c1eb652e1aa354bcf73308744082a0598d
+Homepage: https://github.com/linuxdeepin/dde-application-manager
+Description: DBus Interface of dde-application-manager.
+  For the convenience of developers who want to use dde-application-manager.
+

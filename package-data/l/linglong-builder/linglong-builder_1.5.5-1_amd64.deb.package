@@ -1,0 +1,20 @@
+Package: linglong-builder
+Architecture: amd64
+Version: 1.5.5-1
+Priority: optional
+Section: admin
+Source: linglong
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1917
+Depends: erofs-utils, erofsfuse, git, linglong-bin, linglong-box | crun, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.75.3), libostree-1-1 (>= 2017.6), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5t64 (>= 5.14.1), libstdc++6 (>= 13.1), libsystemd0, libyaml-cpp0.8 (>= 0.8.0+dfsg-6+b1)
+Recommends: devscripts, linglong-loader
+Filename: ./l/linglong-builder/linglong-builder_1.5.5-1_amd64.deb
+Size: 591564
+MD5sum: 512cd4f6d3d182d5b0f8732622c24a1b
+SHA1: f0ff218099135f5a7940b0990cff5075444de820
+SHA256: 165534b4a1a2f8f1a109ca4c64338f17d24c0eb591b436334a23599bef1044a1
+SHA512: b523028c7d339bd5a4875d2628d0ab8f82e2e6a442b3312062e5e4d494cf5c4ee98c537f4b9d70fd0bc221a74ed669272242e2e543d84c5d2bb91f472ff0f86a
+Homepage: http://www.deepin.org
+Description: Linglong application building tools.
+ ll-builder is a tool that makes it easy to build applications and dependencies.
+

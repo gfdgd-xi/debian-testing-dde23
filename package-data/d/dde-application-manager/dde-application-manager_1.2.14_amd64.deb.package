@@ -1,0 +1,18 @@
+Package: dde-application-manager
+Architecture: amd64
+Version: 1.2.14
+Priority: optional
+Section: utils
+Maintainer: He YuMing <heyuming@deepin.org>
+Installed-Size: 1046
+Depends: libc6 (>= 2.34), libdtk6core (>= 6.0), libgcc-s1 (>= 3.0), libqt6concurrent6 (>= 6.1.2), libqt6core6t64 (>= 6.6.0), libqt6dbus6 (>= 6.4.0), libstdc++6 (>= 13.1), libsystemd0 (>= 237)
+Filename: ./d/dde-application-manager/dde-application-manager_1.2.14_amd64.deb
+Size: 277400
+MD5sum: f8fc61dff6232dd867a6fe79df0faaca
+SHA1: 1b471ecc2dfab45b92a0e2d8d9c8e366fb354dc2
+SHA256: cd27ed733d71f634ad65bcf76681bdb3f08542b6f32a80682ae87beba48d9cb8
+SHA512: 396458dac0972beac8268e30da8790ca7a5e5a4341ce72006bd509bf2f3d44c70d3c68298f340a46fd12070768bdd93320418d01e8b5f6a891e92b7f2aa44363
+Homepage: https://github.com/linuxdeepin/dde-application-manager
+Description: Application manager for DDE.
+  Launch applications by systemd for more caps.
+

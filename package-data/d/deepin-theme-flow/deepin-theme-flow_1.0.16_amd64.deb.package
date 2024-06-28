@@ -1,0 +1,19 @@
+Package: deepin-theme-flow
+Architecture: amd64
+Version: 1.0.16
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 60935
+Depends: deepin-icon-theme
+Filename: ./d/deepin-theme-flow/deepin-theme-flow_1.0.16_amd64.deb
+Size: 58094552
+MD5sum: 7c5984690ad44988c9492b6f401c29a6
+SHA1: 3779da841f701496a2fb8c744ef85c434e187f33
+SHA256: 7077c0594fef9003da14fd411666e427a960c39a397a61fbdc3b9dd94583103f
+SHA512: d3bcb5b226ca701fedec9338d82542e094c02c7f205147b836bf08c3ca5be123fa2775e9320757ce30eafb79c1698028ecdf6954d3d3fb550f2cf9b408ab98ac
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - flow theme
+ deepin theme flow.
+

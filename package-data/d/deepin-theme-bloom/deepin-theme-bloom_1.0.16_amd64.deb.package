@@ -1,0 +1,19 @@
+Package: deepin-theme-bloom
+Architecture: amd64
+Version: 1.0.16
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 114811
+Depends: deepin-icon-theme
+Filename: ./d/deepin-theme-bloom/deepin-theme-bloom_1.0.16_amd64.deb
+Size: 98317540
+MD5sum: 21bda6e7f1644c3cb92747aa35409c28
+SHA1: 02f33697f69015da44453b610c019de51c098bdb
+SHA256: 99a49472d1705edbe7f29971afb31d03139801e270cbb7b742c1ba5e43b10d88
+SHA512: 04aba6436280d561d531f2e74c57765314c9d335e86f6d2075e3d894248015fc61b1e0e25976b5ccb9adc8b106c62892cf19a6af5800e3b1a46ee6c6b9f3a560
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - bloom theme
+ deepin theme bloom.
+

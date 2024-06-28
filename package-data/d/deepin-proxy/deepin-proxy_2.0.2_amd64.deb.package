@@ -1,0 +1,18 @@
+Package: deepin-proxy
+Architecture: amd64
+Version: 2.0.2
+Priority: optional
+Section: misc
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 9563
+Depends: adduser, libc6 (>= 2.34), libglib2.0-0t64 (>= 2.70.0), libgtk-3-0t64 (>= 3.0.0)
+Filename: ./d/deepin-proxy/deepin-proxy_2.0.2_amd64.deb
+Size: 2864724
+MD5sum: 0d1b34ef248da02b923b2ebd7400c2b2
+SHA1: 3d61e6fe2428a9e575b93f3456411680a4f1b59c
+SHA256: 4d2b10d92de7ec98e0e051cb3baed280f7f4656c0337ebe3e7db5c6100d75b88
+SHA512: e31610a44c038c6330b34fc2f5c5bfc5c87ed927cff06213b3b8766a701f7b156db6440e0272da6581b7623cf57a2c551d20243c3c1fb777856fd34b296c9c0f
+Homepage: http://www.deepin.org
+Description: service for global or app proxy
+ deepin-proxy is used for proxy
+

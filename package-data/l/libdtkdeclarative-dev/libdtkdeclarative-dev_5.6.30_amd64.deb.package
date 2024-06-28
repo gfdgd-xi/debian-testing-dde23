@@ -1,0 +1,21 @@
+Package: libdtkdeclarative-dev
+Architecture: amd64
+Version: 5.6.30
+Priority: optional
+Section: libs
+Source: dtkdeclarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 134
+Depends: libdtkdeclarative5 (= 5.6.30)
+Filename: ./l/libdtkdeclarative-dev/libdtkdeclarative-dev_5.6.30_amd64.deb
+Size: 21908
+MD5sum: 2c179f0a5fe35b717d99bbdf993e2eb2
+SHA1: 363e91dac0f6856f304db8487a33b8a6b65c1104
+SHA256: 40405970620c6b24eb4f3134f44a0774a8851955a51bf007347994a18a9b23a2
+SHA512: 5c3f2cc0d349b52ebf7f80efbf1708f83fe1fce43f2f992f9475cc38e32b95c49dff287f5e861d837863013fe20ee5161d42ecc13c4940b5827404505e52039b
+Homepage: http://www.deepin.org
+Description: Deepin Tool Kit Gui Devel library
+ Dtkdeclarative is base library of Deepin Qt/QtQuick applications.
+ .
+ This package contains the header files and shared libraries of DtkDeclarative
+

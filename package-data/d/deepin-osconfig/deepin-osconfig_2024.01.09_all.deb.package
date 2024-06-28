@@ -1,0 +1,16 @@
+Package: deepin-osconfig
+Architecture: all
+Version: 2024.01.09
+Priority: optional
+Section: misc
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 17
+Filename: ./d/deepin-osconfig/deepin-osconfig_2024.01.09_all.deb
+Size: 2340
+MD5sum: 8b2556c7879ac0bbec55482dc9b5616b
+SHA1: a9c42c76c3a609f990f633183108b8f66b7895cd
+SHA256: cab1d1c11b14ef6b4a8bfc907a1fc288049714f73ab74ae14cc62a39c5edffce
+SHA512: 03d7f9de9d611dbe688c41f0528eab429914a1c8be85cae00046c2d3b7904fc5a9374effcdc1d2855acdb4aa1872cf6c8387c5e2f900c001e032683c40dde098
+Description: The config files of Deepin Desktop,
+ provides system configs for DDE components
+

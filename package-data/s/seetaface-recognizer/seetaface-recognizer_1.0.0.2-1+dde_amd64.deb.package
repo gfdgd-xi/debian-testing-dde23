@@ -1,0 +1,18 @@
+Package: seetaface-recognizer
+Architecture: amd64
+Version: 1.0.0.2-1+dde
+Priority: optional
+Section: devel
+Maintainer: bd <bd@seetatech.com>
+Installed-Size: 462
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Filename: ./s/seetaface-recognizer/seetaface-recognizer_1.0.0.2-1+dde_amd64.deb
+Size: 139988
+MD5sum: 618633160e77c69392b01f4a4ac58c4d
+SHA1: 495b94b5950c9f0b9dfad3b98d164ce258ab7a4b
+SHA256: e4f4494352d3651ca9af847b25c63d5ea3b93f834b19a5c567cc81fe94741146
+SHA512: 2b573342ca72a2f3de61d7739f38c92f1ac41b07284e6268cc7905b348898dfff6fef3bd39412e76baf10a3f8178e0a98ff51996a8c06d5b40c9d61168dceb06
+Homepage: https://github.com/SeetaFace6Open/FaceRecognizer6.git
+Description: facerecognizer6 for deepin
+ facerecognizer6 for deepin to using.
+

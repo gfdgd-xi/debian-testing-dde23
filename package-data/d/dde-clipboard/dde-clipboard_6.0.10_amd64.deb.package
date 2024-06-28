@@ -1,0 +1,18 @@
+Package: dde-clipboard
+Architecture: amd64
+Version: 1:6.0.10
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 755
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libdwaylandclient5 (>= 5.25.0-kwayland.5.24.3), libgcc-s1 (>= 3.0), libgio-qt0 (>= 0.0.12), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5widgets5t64 (>= 5.11.0~rc1), libstdc++6 (>= 5), dde-daemon (>= 5.12.0.31), startdde (>= 5.6.0.34), dde-api (>= 2.92.1), dde-session (>= 1.1.5)
+Filename: ./d/dde-clipboard/dde-clipboard_6.0.10_amd64.deb
+Size: 180088
+MD5sum: 7fe1272a8472068eb9ed211731593a6d
+SHA1: bc4d0f1067d8f758efdd8b615dd10f4dd9620890
+SHA256: 5a3587dcddacf4d47497a008fbd60e2a123180540846a7ee34324a17130be8a4
+SHA512: 9cb4de9faaecafbb5c875a3b281ae5cd883c8c4df8213764da89cbb49686c4b2ed47986b75723a99e0532e093f7071edfe219056b44ebec827b83febb703ea92
+Homepage: https://github.com/linuxdeepin/dde-clipboard
+Description: deepin desktop-environment - clipboard module
+ Clipboard module of deepin desktop-environment
+

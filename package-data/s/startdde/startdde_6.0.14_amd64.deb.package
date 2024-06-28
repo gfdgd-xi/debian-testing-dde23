@@ -1,0 +1,22 @@
+Package: startdde
+Architecture: amd64
+Version: 6.0.14
+Priority: optional
+Section: x11
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 10868
+Provides: x-session-manager
+Depends: dde-api, dde-daemon (>> 3.24.1+), deepin-desktop-schemas (>> 5.2.0+), deepin-proxy, gnome-keyring, libpam-gnome-keyring, procps, xinput, dde-wloutput, dde-wloutput-daemon, dde-wldpms, redshift, dde-appearance, dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libglib2.0-0 (>= 2.70.0), libgtk-3-0 (>= 3.0.0), libgudev-1.0-0 (>= 234), libx11-6, libxi6 (>= 2:1.2.99.4)
+Recommends: dde-qt5integration
+Conflicts: deepin-session, deepin-wm-switcher
+Breaks: deepin-desktop-schemas (<= 5.8.44)
+Filename: ./s/startdde/startdde_6.0.14_amd64.deb
+Size: 2630732
+MD5sum: f378f03a4af77548753386727e257c3f
+SHA1: 1dccc1490d73f3a450d4548f70b3fa348b1281c4
+SHA256: c6109bdacd81fbaeb9ccc25c2d5bf5ebd7512cf28b8e3c4554926f6d30cd92b4
+SHA512: e93fcf07d1979e8a7d9a3ead0ed4aff28c7df8aea203bb6ad52a1046ea04e779d680f3bd3203371fb1a36f891c0de576fa3e3177cd40f106ac155c1c443c24ce
+Homepage: http://github.com/linuxdeepin/startdde
+Description: start deepin desktop environment
+ starter of deepin desktop environment.
+

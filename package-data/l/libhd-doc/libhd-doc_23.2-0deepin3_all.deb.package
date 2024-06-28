@@ -1,0 +1,32 @@
+Package: libhd-doc
+Architecture: all
+Version: 23.2-0deepin3
+Priority: optional
+Section: doc
+Source: hwinfo
+Maintainer: Sebastien Badia <sbadia@debian.org>
+Installed-Size: 12923
+Provides: libhd12-doc, libhd13-doc, libhd14-doc, libhd15-doc, libhd16-doc, libhd20-doc, libhd21-doc
+Depends: libjs-jquery
+Suggests: doc-base
+Enhances: libhd-dev
+Filename: ./l/libhd-doc/libhd-doc_23.2-0deepin3_all.deb
+Size: 664032
+MD5sum: 248368fdfd972ae45eed1bc2f700873c
+SHA1: abc70504450423e628193cd658032c70b0550f14
+SHA256: ade995edb0e504b2df7198c38ba9dd6713c4b5b47d92b83740577c4e92917daf
+SHA512: ff5610ca74f07ed8ced6984f9891c798f63b7ebd44e7181879d9de816b0b743874ea4759b55e96181943a75e95c5b8526632f4c7b3570f412761eea73b8519fb
+Homepage: https://github.com/openSUSE/hwinfo
+Description: Hardware identification system library documentation
+ hwinfo is the hardware detection tool used in SuSE Linux.
+ .
+ In Debian Edu (Skolelinux) hwinfo has shown better results than discover when
+ detecting mouse, keyboard and monitor.
+ .
+ hwinfo collects information about the hardware installed on a system.  Among
+ others, libhd contains information about cdrom, zip, floppy, disks and
+ partitions, network card, graphics card, monitor, camera, mouse, sound, pppoe,
+ isdn, modem, printer, scanner, bios, cpu, usb, memory and smp.
+ .
+ This package contains the documentation for the libhd21-dev package.
+

@@ -1,0 +1,19 @@
+Package: dde-application-wizard-daemon-compat
+Architecture: amd64
+Version: 0.1.9
+Priority: optional
+Section: unknown
+Source: dde-application-wizard
+Maintainer: Gary Wang <wangzichong@deepin.org>
+Installed-Size: 140
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libgcc-s1 (>= 3.0), libpackagekitqt5-1 (>= 1.1.1), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 11), packagekit
+Conflicts: dde-application-manager (<= 1.1.0)
+Filename: ./d/dde-application-wizard-daemon-compat/dde-application-wizard-daemon-compat_0.1.9_amd64.deb
+Size: 35616
+MD5sum: 15ea53cb728e9dfb1b23233ef27c2dd6
+SHA1: 26bb0e734fa0642911eb5d77cfd57b68d7219b9e
+SHA256: b925ab200011ee485b9f91db7492f0e93df69fd6e90828b8e645e0e25ad1a879
+SHA512: 2b0eccf37fe8f9245ac9ce02534039d39a7fd47c657d8e776a526be940e6ae17791ec4d8becd58946bdcd5c1854f514568161275e204ad688d4c68829a7d0302
+Description: D-Bus compat module to provide app uninstall support
+ This package provides the app uninstallation related D-Bus APIs which
+

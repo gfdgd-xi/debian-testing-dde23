@@ -1,0 +1,30 @@
+Package: hwinfo
+Architecture: amd64
+Version: 23.2-0deepin3
+Priority: optional
+Section: admin
+Maintainer: Sebastien Badia <sbadia@debian.org>
+Installed-Size: 82
+Depends: libc6 (>= 2.34), libhd21 (>= 23.2-0deepin3)
+Filename: ./h/hwinfo/hwinfo_23.2-0deepin3_amd64.deb
+Size: 34844
+MD5sum: 82824260e8244cb2d0f11b8a84ef018a
+SHA1: 9ab6dffceb89828261f92a6ea6137dca6261f0be
+SHA256: e0c0ac2745288ca2861ef06121d8236e7f7ce174fd90cbf61f3f95c6c98d801e
+SHA512: 9bfbb02a633901a92a286184c049da357e92d47b5fb05fee9bfe02cbd7fa7bab56ef82456009939fe223fd11ec471fab1868ce81af7ec1e4d56e7caa454fecd8
+Homepage: https://github.com/openSUSE/hwinfo
+Description: Hardware identification system
+ hwinfo is the hardware detection tool used in SuSE Linux.
+ .
+ In Debian Edu (Skolelinux) hwinfo has shown better results than discover when
+ detecting mouse, keyboard and monitor.
+ .
+ hwinfo collects information about the hardware installed on a system.  Among
+ others, libhd contains information about cdrom, zip, floppy, disks and
+ partitions, network card, graphics card, monitor, camera, mouse, sound, pppoe,
+ isdn, modem, printer, scanner, bios, cpu, usb, memory and smp.
+ .
+ This package does not include the binaries hwscan, hwscand and hwscanqueue. If
+ you think one or more of these should be included in the package, please
+ contact the maintainer at hwinfo@packages.debian.org.
+

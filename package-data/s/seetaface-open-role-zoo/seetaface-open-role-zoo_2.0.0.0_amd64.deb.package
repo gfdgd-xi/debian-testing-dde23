@@ -1,0 +1,18 @@
+Package: seetaface-open-role-zoo
+Architecture: amd64
+Version: 2.0.0.0
+Priority: optional
+Section: devel
+Maintainer: likier <likier@sina.cn>
+Installed-Size: 2056
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Filename: ./s/seetaface-open-role-zoo/seetaface-open-role-zoo_2.0.0.0_amd64.deb
+Size: 318380
+MD5sum: b928784d1d7393dd0860336321833a9e
+SHA1: d7f0efcfde874d75ac72d2cc64a7dbfca7e45123
+SHA256: 0bbffdeebfa57245b30bd1231f126786f9adc6f571dfb69ef86a8c9ba900971b
+SHA512: 1e7c9165db49513997f0faa6a86c0bc3c61120b3a07cf789e024749c7f4d239b96642b0bcde00b52fa240589bee78c60ef61c4a8ba7e26cbfc36c4b04619f633
+Homepage: https://github.com/SeetaFace6Open/OpenRoleZoo.git
+Description: OpenRoleZoo for seetaface
+ OpenRoleZoo is a static library used by seetaface
+

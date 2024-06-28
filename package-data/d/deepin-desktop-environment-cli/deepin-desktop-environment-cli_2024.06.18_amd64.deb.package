@@ -1,0 +1,22 @@
+Package: deepin-desktop-environment-cli
+Architecture: amd64
+Version: 2024.06.18
+Priority: standard
+Section: metapackages
+Source: deepin-desktop-environment
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 10
+Depends: accountsservice, acpid, alsa-topology-conf, alsa-ucm-conf, alsa-utils, arj, avfs, bash-completion, bluez, cifs-utils, crda, dbus-user-session, dialog, dkms, dmidecode, dnsutils, dpkg-dev, efibootmgr, exfat-fuse, exfat-utils, file, foomatic-db-compressed-ppds, foomatic-db-engine, fprintd, gcr, geoclue-2.0, grub-common, gtk2-engines, gtk2-engines-murrine, gtk2-engines-pixbuf, gvfs-backends, gvfs-fuse, hdparm, iio-sensor-proxy, im-config, initramfs-tools, ipheth-utils, less, lhasa, libc6-dev, libfile-mimeinfo-perl, libglib2.0-bin, libimobiledevice-utils, libmtp-runtime, libnss-myhostname, libpam-fprintd, libpam-gnome-keyring, libpulse-mainloop-glib0, librsvg2-bin, libtirpc-common, linux-firmware, live-config, locales, lsb-release, lvm2, man-db, modemmanager, ncompress, net-tools, network-manager, wpasupplicant, onboard, openprinting-ppds, os-prober, ostree, pipewire-pulse, wireplumber, libspa-0.2-bluetooth, pkg-config, plymouth, pppoe, proxychains4, pulseaudio, pulseaudio-module-bluetooth, pulseaudio-utils, python-is-python3, python3-dbus, python3-dnspython, python3-gi, python3-ldb, python3-samba, python3-smbc, python3-tdb, qdbus, qml-module-org-kde-kquickcontrolsaddons, qml-module-qtquick-controls2-styles-chameleon, qttranslations5-l10n, redshift, rfkill, rsync, rzip, sdparm, slirp4netns, smbclient, sudo, tdb-tools, unace, unalz, unar, unrar, unzip, usb-modeswitch, usbmuxd, usbutils, user-setup, vim, wireless-tools, xdg-user-dirs, xdg-utils, xserver-xorg-core, xserver-xorg-input-all, xz-utils, zip
+Recommends: aptitude, hostapd, lz4, lzip, lzma, lzop, xorg, xserver-xorg-input-wacom
+Filename: ./d/deepin-desktop-environment-cli/deepin-desktop-environment-cli_2024.06.18_amd64.deb
+Size: 5292
+MD5sum: d7ca0bbb33b623975250fb8d9ccc06d9
+SHA1: 38e815a80e32a444176feecc85810420af61e614
+SHA256: e962e27ebceacd70d44fc2decdd9cafbe1611864d10ab5f5006f6b5fd41c69ab
+SHA512: ea4965bde427d45eca021f6d5563c27a40c7c6a8f679a72b3ce6bcf8155a82f1e9e1fc61c3974ff864ea9e85bd0b6dfb0d0541620a1c04ed6b5dc3dfa1b016d3
+Homepage: https://github.com/deepin-community/deepin-desktop-environment
+Description: Deepin New Desktop Environment - Next
+ This is a cli meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

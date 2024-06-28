@@ -1,0 +1,17 @@
+Package: deepin-installer-timezones
+Architecture: all
+Version: 6.0.3.1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1549
+Filename: ./d/deepin-installer-timezones/deepin-installer-timezones_6.0.3.1_all.deb
+Size: 146624
+MD5sum: c27020d1a05aadfc94238b2fc973bf75
+SHA1: 9e19c65d1e20b5faf8b4554d613646681860c04a
+SHA256: eb5e699b8d60f45c68efed7cd894906b380aa45241cfdb04f66a2de9eaf7f9eb
+SHA512: 8126bc3956e51d734006e4a7d8d18fcba8b92961ac68235f90c5533d3ddc878d46b31df0ccd3b812f2a079f1c032fc37898c1d0fd530c98e95944a674ab258fe
+Homepage: http://www.deepin.org
+Description: Language package for timezone names
+ Installer language package for timezone names
+

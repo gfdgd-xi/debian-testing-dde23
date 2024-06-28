@@ -1,0 +1,24 @@
+Package: libqwlroots1
+Architecture: amd64
+Version: 0.2.0-alpha2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qwlroots
+Maintainer: rewine <lhongxu@outlook.com>
+Installed-Size: 1069
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.6.0), libqt6gui6 (>= 6.1.2), libstdc++6 (>= 5), libwayland-server0 (>= 1.20.92), libwlroots12t64 (>= 0.17.0)
+Filename: ./l/libqwlroots1/libqwlroots1_0.2.0-alpha2_amd64.deb
+Size: 170000
+MD5sum: aacb42f779b9869bb7dd499b1a3b7f8e
+SHA1: ce90438ed7cef2235d35a13f2441f0b6c80af988
+SHA256: d967728d7b3c93ef2186a82a624653e4924a2780c3411a219bf2ada82af59d85
+SHA512: bb0ee19a69262f0402e71808a2db672f78514fb57f88161e59b6c78bde1f271d35e4ff44381742062d202482c84472e5afb7f4164ce93f7956127f8ad911bc89
+Homepage: https://github.com/vioken/qwlroots.git
+Description: Qt and QML bindings for wlroots - shared library
+  qwlroots is a binding of wlroots, which provides a Qt style development interface.
+ It aims to simplify wlroots API calling methods with Qt, and serve the needs of
+ calling wlroots within Qt projects.
+ .
+ This package contains the shared library.
+

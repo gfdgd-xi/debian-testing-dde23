@@ -1,0 +1,20 @@
+Package: libdtkmultimedia-dev
+Architecture: amd64
+Version: 1.0.5
+Priority: optional
+Section: libdevel
+Source: dtkmultimedia
+Maintainer: Packages Builder <packages@deepin.com>
+Installed-Size: 2079
+Depends: libdtkmultimedia (= 1.0.5), libdtkmultimediawidgets (= 1.0.5)
+Filename: ./l/libdtkmultimedia-dev/libdtkmultimedia-dev_1.0.5_amd64.deb
+Size: 1326636
+MD5sum: 20b13ccad2c7028388ee2a935994514f
+SHA1: f9ec6f718b333c0798f033f06520181fdb553284
+SHA256: 0180eb1816d622151d7891c9001161c2610c7587b475c2ef90b4b3959ca9ba30
+SHA512: cf04c93353b49786dfb6031851988faa3c02e70dc95c3443b1302ba2f34502a840e5b43bd8f2f50661ef1600bbbb7c9049bd68ee2a16ca2e345a5a2aa5211ad2
+Description: Development Tool Kit multimedia devel library
+ libdtkmultimedia-dev is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the header files and static libraries.
+

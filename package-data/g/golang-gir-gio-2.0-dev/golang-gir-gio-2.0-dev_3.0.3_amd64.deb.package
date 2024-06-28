@@ -1,0 +1,24 @@
+Package: golang-gir-gio-2.0-dev
+Architecture: amd64
+Version: 3.0.3
+Priority: optional
+Section: devel
+Source: go-gir-generator
+Maintainer:  Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 623
+Provides: golang-gir-gio-2.0
+Depends: libglib2.0-dev
+Conflicts: golang-gir-gio-2.0
+Breaks: golang-gir-gio-2.0 (<< 0.9.3)
+Filename: ./g/golang-gir-gio-2.0-dev/golang-gir-gio-2.0-dev_3.0.3_amd64.deb
+Size: 57160
+MD5sum: ea634fb7d1aa9c66c9c016719782f5cd
+SHA1: b411fe17e11cc043a30dcdf6a9104fa8b31bacb0
+SHA256: e1e9914a11a1203656a28df8bcef3719766502a2b1d80765d71adc21d6140150
+SHA512: 1fce80243a3f854b6779cfcd6bdbf7bb0b04105e65d4bca996c433dc6b294ba3ddc5e76708e40ff0f22b7e6c17fc1718d859075cadb31993d0779483f4dd464f
+Homepage: http://www.deepin.org
+Description: Go bindings
+ Go bindings for Deepin Desktop Environment development.
+ .
+ gio-2.0 go bindings.
+

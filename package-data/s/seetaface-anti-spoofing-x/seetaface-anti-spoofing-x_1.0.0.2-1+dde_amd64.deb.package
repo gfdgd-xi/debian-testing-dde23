@@ -1,0 +1,18 @@
+Package: seetaface-anti-spoofing-x
+Architecture: amd64
+Version: 1.0.0.2-1+dde
+Priority: optional
+Section: devel
+Maintainer: likier <likier@sina.cn>
+Installed-Size: 698
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Filename: ./s/seetaface-anti-spoofing-x/seetaface-anti-spoofing-x_1.0.0.2-1+dde_amd64.deb
+Size: 148532
+MD5sum: 8096e130377630467e07f27821c46b0e
+SHA1: 86a22e560bc3055b112ccbf274149b99663c5636
+SHA256: 102d3dc72be5e04850fb11f33da63ee439d8b75a43a714a7fe3fe42e875d5fa6
+SHA512: f3fdff3234088c5269047480da26f3c66d96c1390b1723735e9a2ae368432cdcb4868d9620c5de3b082e4161ce0df2a93fe81049489b5d80ac3b52227663a475
+Homepage: https://github.com/SeetaFace6Open/FaceAntiSpoofingX6.git
+Description: anti-spoofing module of seetaface
+ The anti-spofing library of seetaface.
+
