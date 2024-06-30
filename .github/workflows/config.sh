@@ -12,6 +12,7 @@ apt install -y deepin-desktop-environment-cli
 apt install -y deepin-desktop-environment-core
 apt install -y deepin-desktop-environment-extras
 apt install -y debiandde-config
+apt install -y deepin-installer -y
 apt install -y live-task-recommended
 apt install -y live-task-non-free-firmware-pc
 apt install -y live-task-standard
